@@ -8,7 +8,7 @@ Server deployed in Heroku
 -------------------------
 
 * Register
-Post your channel id as post parameter 'client' to url: https://foxypush.herokuapp.com/api/v1/register
+Post your channel id as post parameter 'client' to url: https://foxypush.herokuapp.com/api/v1/register/
 
 * Unregister 
 Post your channel id as post parameter 'client' to url: https://foxypush.herokuapp.com/api/v1/unregister
